@@ -1,5 +1,5 @@
 # Skill-Nest
-<h3> SkillNest is an end-to-end technical assessment platform designed for educational institutions and recruiters.  It streamlines the evaluation process by combining AI-driven content generation with real-time, secure coding environments to assess candidate proficiency accurately. </h3> <hr> <br>
+<h3> SkillNest is an technical assessment platform designed for educational institutions and recruiters.  It streamlines the evaluation process by combining AI-driven content generation with real-time, secure coding environments to assess candidate proficiency accurately. </h3> <hr> <br>
 
   
 **🛠️ Key Features & Tech Stack:**
